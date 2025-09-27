@@ -10,3 +10,6 @@ for i in range(5):
 
 print("No error! from b2.")
 print("From main, now merger conflict solve!")
+
+print("From Branch 1")
+print("From Branch 1")
