@@ -13,3 +13,6 @@ print("From main, now merger conflict solve!")
 
 print("From Branch 1")
 print("From Branch 1")
+
+print("From Branch 2")
+print("From Branch 2")
